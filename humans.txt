@@ -8,6 +8,7 @@
    javva
    akhiljava83@hmail.com
    Devop engineer
+   Chep, docker, puppet
 
     <name>
 helloo 
