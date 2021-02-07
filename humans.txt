@@ -8,15 +8,12 @@
    javva
    akhiljava83@hmail.com
    Devop engineer
-   Chep, docker, puppet
-
-    <name>
-helloo 
-hdhdhdh
-jdj
+ 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 ,CSS5, ANGUAR
     jQuery, Modernizr,JQUERY ,AJAX
+	
+	#THANKS TO ALL MY STUDENTS
 	
 	
