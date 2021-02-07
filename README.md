@@ -14,6 +14,3 @@ ADDING GIT COMPARISONS
 
 ##ADDING NEW GITHUB CONTENET COMPARISON WITH Repo
 
-
-## contribution
-Fork the repor and review
