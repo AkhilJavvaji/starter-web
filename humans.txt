@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <Akhil> -- <twitter>
 
 # THANKS
 
@@ -13,3 +13,5 @@
 
     HTML5, CSS3 ,CSS5, ANGUAR
     jQuery, Modernizr,JQUERY ,AJAX
+	
+	
