@@ -12,8 +12,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 ,CSS5, ANGUAR
-    jQuery, Modernizr,JQUERY ,AJAX
-	
-	#THANKS TO ALL MY STUDENTS
+    jQuery, Modernizr,JQUERY
 	
 	
