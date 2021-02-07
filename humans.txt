@@ -3,9 +3,11 @@
 
 # TEAM
 
-    <name> -- <Akhil> -- <twitter>
-
-# THANKS
+   Akhil
+   Saiteja
+   javva
+   akhiljava83@hmail.com
+   Devop engineer
 
     <name>
 
